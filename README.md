@@ -25,3 +25,6 @@
 
 https://openwrt.org/toh/hwdata/xiaomi/xiaomi_mi_router_4a_100m
 https://forum.openwrt.org/t/bricked-xiaomi-mi-router-4a-mir4a-100m-international-version/102391/8
+
+https://www.youtube.com/watch?v=VxzEvdDWU_s
+https://forum.openwrt.org/t/bricked-xiaomi-mi-router-4a-mir4a-100m-international-version/102391/8
